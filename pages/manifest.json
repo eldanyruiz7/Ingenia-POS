@@ -1,0 +1,10 @@
+{
+  "name": "ADK Controller Sample",
+  "version": "2",
+  "app": {
+   "launch": {
+     "local_path": "index.php"
+   }
+ },
+  "manifest_version": 2
+}
